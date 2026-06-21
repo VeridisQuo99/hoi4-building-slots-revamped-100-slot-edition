@@ -1,8 +1,6 @@
-state_categories={
+state_categories = {
 	large_town = {
-		local_building_slots = 15 # IEF: Increased from vanilla 5.
-	
+		local_building_slots = 16 # BSR: Increased from vanilla 5.
 		color = { 240 240 0 }
-
 	}
 }

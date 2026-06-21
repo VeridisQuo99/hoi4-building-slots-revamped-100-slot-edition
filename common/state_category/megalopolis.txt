@@ -1,8 +1,6 @@
-state_categories={
+state_categories = {
 	megalopolis = {
-		local_building_slots = 36 # IEF: Increased from vanilla 12.
-	
-			color = { 0 240 240 }
-
+		local_building_slots = 40 # BSR: Increased from vanilla 12.
+		color = { 0 240 240 }
 	}
 }

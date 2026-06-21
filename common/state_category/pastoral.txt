@@ -1,8 +1,6 @@
-state_categories={
+state_categories = {
 	pastoral = {
-		local_building_slots = 3 # IEF: Increased from vanilla 1.
-	
+		local_building_slots = 4 # BSR: Increased from vanilla 1.
 		color = { 160 160 0 }
-
 	}
 }
